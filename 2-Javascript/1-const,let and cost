@@ -1,0 +1,5 @@
+var was used in older versions of JS, it works even in new versions of JS but it is highly recommended to use let or const
+
+let was introduced in ES6 onwards and is recommended over var but is similar to var 
+
+const is used to define a constant variables
