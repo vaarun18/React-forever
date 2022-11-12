@@ -1,0 +1,7 @@
+Components are reusable piece of html , css and JavaScript code.
+Components are custom react elements
+
+Why use Components?
+1)DRY
+2)Reuseability
+3)Separation of concerns
