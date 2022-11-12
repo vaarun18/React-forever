@@ -1,0 +1,2 @@
+Javascript library for building user interfaces
+We donot need to make new request each time to fetch details instead we can use DOM from javascipt which is run on the browser to make 
